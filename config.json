@@ -1,5 +1,5 @@
 {
-    "Token": "MTExMjI0OTM0MjY1NzU4MTEyNw.GfFOjR.z4YHtvEZlxstNKvp2PNq7reXGcsxzWUm_z1bmI",
+    "Token": "os.getenv("TOKEN")",
     "Guild": "1144521504520929330",
     "Channel": "1154398200782917723"
 }
