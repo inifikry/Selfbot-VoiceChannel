@@ -1,5 +1,5 @@
 {
-    "Token": "os.getenv("TOKEN")",
+    "Token": os.getenv("TOKEN"),
     "Guild": "1144521504520929330",
     "Channel": "1154398200782917723"
 }
