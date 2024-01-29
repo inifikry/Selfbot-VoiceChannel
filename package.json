@@ -9,7 +9,6 @@
   "author": "1mgr007",
   "license": "MIT",
   "dependencies": {
-    "node-pre-gyp": "^0.17.0",
     "@mapbox/node-pre-gyp": "^1.0.11",
     "@discordjs/opus": "^0.8.0",
     "@discordjs/voice": "^0.16.1",
@@ -19,7 +18,7 @@
     "sodium": "^3.0.2"
   },
   "engines": {
-    "node": ">=21.6.1",
+    "node": ">=18.0.0",
     "npm": ">=10.4.0"
   }
 }
